@@ -1,0 +1,14 @@
+Problem Statement No.6: 
+Intelligent Market Research Assistant The Challenge Organizations and startups often struggle with fragmented and rapidly changing market data— customer feedback, competitor moves, industry reports, and social media trends.
+
+
+This information is scattered across multiple sources, time-consuming to analyze, and often outdated by the time insights are generated. 
+The challenge is not just to collect information but to synthesize, predict, and present actionable insights for smarter decision-making. 
+The Objective Build an agentic AI application that acts as an intelligent market research assistant. 
+
+
+The solution should:
+1. Fuse Disparate Sources: Collect real-time data from news sites, analyst reports, social media, and customer reviews, and synthesize into clear, concise market snapshots.
+2. Enable Multimodal Analysis: Accept inputs such as text, charts, or voice notes from users and refine them into structured insights, competitor comparisons, or market trends. 
+3. Create a Predictive & Agentic Layer: Analyze patterns to forecast market shifts (e.g., rising demand in a product segment) and generate alerts on competitor activities or customer sentiment changes.
+4. Visualize the Market Pulse: Provide a dashboard with trend analysis, competitor mapping, sentiment tracking, and demand forecasts to guide data-driven business strategies. 
